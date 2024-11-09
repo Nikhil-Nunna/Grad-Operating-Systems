@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "exceptions.C": "cpp",
+        "interrupts.C": "cpp"
+    }
+}
